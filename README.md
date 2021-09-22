@@ -2,7 +2,7 @@
 
 **This repositories _only purpose_ is to build my portfolio so peers and employers can see what I have worked on.**
 
-If you are a current student at Seneca College and your intention is to plagarise my work please look at the Academic Integrity Policy of Seneca (https://www.senecacollege.ca/about/policies/academic-integrity-policy.html) and refrain from doing so.
+If you are a current student at Seneca College and your intention is to plagiarize my work please look at the Academic Integrity Policy of Seneca (https://www.senecacollege.ca/about/policies/academic-integrity-policy.html) and refrain from doing so.
 In addition please take a look at the Student Code of Conduct (https://www.senecacollege.ca/about/policies/student-code-of-conduct.html)
 
 Plagarism can include one or more of the following punishments in ascending order of severity:
